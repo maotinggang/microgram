@@ -1,0 +1,26 @@
+Auto Close Tag
+Auto Rename Tag
+Babel JavaScript
+Bracket Pair Colorizer
+D3.js Snippets
+Easy LESS
+ESLint
+Formatting Toggle
+HTML CSS Support 
+HTML Snippets
+iview snippets
+JavaScript (ES6) snippets
+Lua snippets
+Lua Debug
+Markdown All in One
+npm
+Npm Intellisense
+Open in Browser
+Path Intellisense
+Prettier
+preview
+Todo Tree
+Vetur
+Visual Studio IntelliCode
+Vue 2 Snippets
+Vue VSCode Snippets
